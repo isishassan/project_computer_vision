@@ -91,12 +91,10 @@ Potential improvements:
 - Improve stacking ensemble methodology
 
 ## 8. Repo Structure
-repo/
-- models: Saved trained models
+
 - notebooks: Jupyter notebooks for experimentation and training
-- reports: Visual outputs, plots, evaluation summaries
-- utils: Helper functions (training, evaluation, preprocessing)
 - model_performance_report: DataFrames / CSV reports tracking model metrics
+- computervision.pdf - class presentation
 - requirements.txt: Python dependencies for project reproducibility
 
 
